@@ -1,0 +1,3 @@
+[submodule "promethee"]
+	path = promethee
+	url = https://github.com/lucasCorreaAssis/promethee.git
